@@ -1,0 +1,4 @@
+Light,OFF
+Fan,OFF
+Air Fryer,OFF
+AC,OFF

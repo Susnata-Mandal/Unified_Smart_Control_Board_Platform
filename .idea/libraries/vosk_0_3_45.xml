@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vosk-0.3.45">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/vosk-0.3.45.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
